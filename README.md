@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lyoneos-mcp-cheatengine-cto-badge.png)](https://mseep.ai/app/lyoneos-mcp-cheatengine-cto)
+
 # MCP CheatEngine Cto
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
